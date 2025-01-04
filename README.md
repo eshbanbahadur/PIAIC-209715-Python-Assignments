@@ -1,19 +1,20 @@
-<strong>PIAIC Python Assignments</strong>
+# PIAIC Python Assignments
 
-Welcome to my PIAIC Python Assignments repository! 🎉
+Welcome to my **PIAIC Python Assignments** repository! 🎉  
+This repository contains all the Python assignments I am working on as part of the **Presidential Initiative for Artificial Intelligence and Computing (PIAIC)** program. My goal is to showcase my progress and learning journey in Python programming.
 
-This repository contains all the Python assignments I am working on as part of the Presidential Initiative for Artificial Intelligence and Computing (PIAIC) program. My goal is to showcase my progress and learning journey in Python programming.
+---
 
-Repository Overview
+## Repository Overview
+- 📚 **Weekly Assignments:** Each folder contains assignments for a specific week.
+- 🗂️ **Organized Structure:** Every assignment is accompanied by clean code and comments for better readability.
+- 💡 **Learning Progress:** I update this repository weekly with new assignments, demonstrating consistent learning and improvement.
 
-    📚 Weekly Assignments: Each folder contains assignments for a specific week.
-    🗂️ Organized Structure: Every assignment is accompanied by clean code and comments for better readability.
-    💡 Learning Progress: I update this repository weekly with new assignments, demonstrating consistent learning and improvement.
+---
 
-Getting Started
+## Getting Started
 
-Prerequisites
-
+### Prerequisites
 To run the assignments, you'll need:
 
     Python 3.13+ installed (Download Python)
