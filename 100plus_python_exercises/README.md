@@ -8,5 +8,5 @@ https://github.com/JahanzaibTayyab/Batch-67/blob/main/A1-101/assignments/assignm
 
 ## About the Exercises
 
-- **100+ Python challenging programming exercises for Python 3.md**:  
-  This file contains over 100 exercises ranging from beginner to advanced levels. Each exercise includes hints and, in some cases, full solutions. It's an excellent resource for self-study, practice, and refining your problem-solving skills in Python.
+- **100+ Python challenging programming exercises for Python**:  
+  This file contains over 100 exercises ranging from beginner to advanced levels. Each exercise includes hints and, in some cases, full solutions. It's an excellent resource for self-study, practice, and refining problem-solving skills in Python.
