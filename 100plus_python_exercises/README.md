@@ -2,7 +2,7 @@
 
 This repository contains a collection of challenging Python programming exercises designed to help to improve coding skills in Python. The exercises are part of a series of assignments in PIAIC Batch-67.
 
-## Repository Structure
+## 100 Python Questions
 
 https://github.com/JahanzaibTayyab/Batch-67/blob/main/A1-101/assignments/assignment-06/100%2B%20Python%20challenging%20programming%20exercises%20for%20Python%203.md
 
