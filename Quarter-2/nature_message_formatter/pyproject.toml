@@ -1,0 +1,8 @@
+[project]
+name = "nature-message-formatter"
+version = "0.1.0"
+description = "PIAIC Quarter 2 Assignnment 1 from PIAIC-209715"
+authors = ["Eshban Bahadur <eshban@gmail.com>"]
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = []
