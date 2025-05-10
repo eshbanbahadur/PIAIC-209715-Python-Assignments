@@ -40,5 +40,5 @@ def my_first_agent():
     print(result.final_output)
 
 
-if __name__ == "__main__":
-    main()  # ✅ Now it's defined!
+#if __name__ == "__main__":
+#    my_first_agent()  # ✅ Now it's defined!
