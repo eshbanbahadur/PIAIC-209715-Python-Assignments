@@ -7,10 +7,14 @@ authors = [
     { name = "Eshban Bahadur", email = "eshban@gmail.com" }
 ]
 requires-python = ">=3.13"
-dependencies = []
+dependencies = [
+    "openai-agents>=0.0.14",
+    "python-dotenv>=1.1.0",
+]
 
 [project.scripts]
-hello-agent = "hello_agent:main"
+hello-agent = "hello_agent.agent_hello:my_first_agent" 
+## Foldername insdide src then filename and then function name
 
 [build-system]
 requires = ["hatchling"]
